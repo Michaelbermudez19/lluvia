@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://www.hibridosyelectricos.com/media/hibridos/images/2022/08/29/2022082909164024420.jpg);
+    background-repeat: no-repeat;
+}
+p{
+    font-size: 100px;
+    color: goldenrod;
+    background-color: white;
+}
+h3{
+    font-size: 50px;
+    color: chocolate;
+}
+h4{
+    font-size: 40px;
+    color: gold;
+}
